@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the code and projects I worked on during my C++ course in my sophomore year studying Mechatronics Engineering. Some of the code samples here have multiple solutions, showcasing different ways to approach and solve a problem.
+This repository contains the code and projects I worked on during my C++ course in my sophomore year studying Mechatronics Engineering. Here, you'll find a range of code samples spanning from foundational concepts like if conditions and loops, ideal for beginners, to more complex projects. Some of the code samples here have multiple solutions, showcasing different ways to approach and solve a problem.
 
 ## Table of Contents
 
